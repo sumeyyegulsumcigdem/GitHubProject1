@@ -8,7 +8,7 @@ public class Project1 {
         //finished
         //thank dear god
         
-        //canım furkancım benim 
+        //canım furkancım benim
 
 
     }
